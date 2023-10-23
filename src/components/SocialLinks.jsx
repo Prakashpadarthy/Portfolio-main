@@ -14,7 +14,7 @@ const SocialLinks = () => {
                     LinkedIn <FaLinkedin size={30} />
                 </>
             ),
-            href: 'https://www.linkedin.com/in/desumanojkumar2004-542b8a21a/',
+           
             style: 'rounded-tr-md'
         },
         {
@@ -24,7 +24,7 @@ const SocialLinks = () => {
                     GitHub <FaGithub size={30} />
                 </>
             ),
-            href: 'https://github.com/MANOJKUMARDESU',
+            href: "https://github.com/Prakashpadarthy",
         },
         {
             id: 3,
@@ -33,7 +33,7 @@ const SocialLinks = () => {
                     Mail <HiOutlineMail size={30} />
                 </>
             ),
-            href: 'mailto:dmanojkumar2004@gmail.com',
+            href: 'mailto:durga.21bce8942@vitapstudent.ac.in',
         },
         {
             id: 4,
